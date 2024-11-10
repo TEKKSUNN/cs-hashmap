@@ -14,7 +14,7 @@ npm install @tekksunn/cs-hashmap
 
 ## Features
 
-The linked list includes the following methods:
+The hashmap includes the following methods:
 
 - **set(key, value):** Adds a new key-value pair or updates the value if the key already exists.
 - **get(key):** Retrieves the value for the specified key, returning null if the key doesn’t exist.
