@@ -31,7 +31,7 @@ The linked list includes the following methods:
 To use the `HashMap` in your project, import it and create a new instance:
 
 ```javascript
-import HashMap from "node_modules/@tekksunn/cs-hashmap";
+import HashMap from "@tekksunn/cs-hashmap";
 
 const map = new HashMap();
 map.set("name", "Alice");
